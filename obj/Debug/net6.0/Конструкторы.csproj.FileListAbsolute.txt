@@ -1,0 +1,30 @@
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\bin\Debug\net6.0\Конструкторы.exe
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\bin\Debug\net6.0\Конструкторы.deps.json
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\bin\Debug\net6.0\Конструкторы.runtimeconfig.json
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\bin\Debug\net6.0\Конструкторы.dll
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\bin\Debug\net6.0\ref\Конструкторы.dll
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\bin\Debug\net6.0\Конструкторы.pdb
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\Конструкторы.csproj.AssemblyReference.cache
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\Конструкторы.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\Конструкторы.AssemblyInfoInputs.cache
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\Конструкторы.AssemblyInfo.cs
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\Конструкторы.csproj.CoreCompileInputs.cache
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\Конструкторы.dll
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\ref\Конструкторы.dll
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\Конструкторы.pdb
+C:\CS\METANIT\3 Классы, структуры и пространства имен\Конструкторы\obj\Debug\net6.0\Конструкторы.genruntimeconfig.cache
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\bin\Debug\net6.0\Конструкторы.exe
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\bin\Debug\net6.0\Конструкторы.deps.json
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\bin\Debug\net6.0\Конструкторы.runtimeconfig.json
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\bin\Debug\net6.0\Конструкторы.dll
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\bin\Debug\net6.0\ref\Конструкторы.dll
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\bin\Debug\net6.0\Конструкторы.pdb
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\Конструкторы.csproj.AssemblyReference.cache
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\Конструкторы.GeneratedMSBuildEditorConfig.editorconfig
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\Конструкторы.AssemblyInfoInputs.cache
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\Конструкторы.AssemblyInfo.cs
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\Конструкторы.csproj.CoreCompileInputs.cache
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\Конструкторы.dll
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\ref\Конструкторы.dll
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\Конструкторы.pdb
+C:\CS\METANIT\3 Классы, структуры и пространства имен\3.1 Конструкторы\obj\Debug\net6.0\Конструкторы.genruntimeconfig.cache
